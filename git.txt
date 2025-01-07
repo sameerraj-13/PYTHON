@@ -1,0 +1,19 @@
+All command of GIT.
+
+## To Create new Repo: -> (On local server)
+echo "# testing" >> README.md
+
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sameerraj-13/testing.git
+git push -u origin main
+
+## To push created Repo: -> (On Remote server)
+
+git remote add origin https://github.com/sameerraj-13/testing.git
+git branch -M main
+git push -u origin main
+
