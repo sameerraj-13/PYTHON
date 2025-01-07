@@ -1,8 +1,8 @@
 All command of GIT.
 
 ## To Create new Repo: -> (On local server)
-echo "# testing" >> README.md
 
+echo "# testing" >> README.md
 git init
 git status
 git add .
@@ -16,4 +16,137 @@ git push -u origin main
 git remote add origin https://github.com/sameerraj-13/testing.git
 git branch -M main
 git push -u origin main
+
+## In General: ->(After all set-up for 1st time)
+
+1.  git init
+2.  git status
+3.  touch README.md
+4.  touch other files
+5.  git add README.md
+6.  git status
+7.  git add .
+8.  git status
+9.  git commit -m "New Commit"
+10. git status
+11. git push 
+
+## In simple way:
+
+git init
+git add .
+git status
+git commit -m "Initial commit"
+git status
+git push
+
+
+## Additional Command of git:
+
+git clone "url"
+git status -s
+git log
+git log --oneline
+git branch
+
+git fetch origin
+git checkout main
+git pull origin main
+
+
+## Here’s a list of Git commands:
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+git config --list
+git init
+git init --bare
+git clone <repository-url>
+git clone --bare <repository-url>
+git clone --depth 1 <repository-url>
+git status
+git add <file>
+git add .
+git add -u
+git commit -m "Your commit message"
+git commit -a -m "Your commit message"
+git commit --amend
+git log
+git log --oneline
+git log --graph
+git log -p
+git log --stat
+git log --pretty=oneline
+git log --since="2 weeks ago"
+git log --until="yesterday"
+git branch
+git branch <branch-name>
+git branch -m <new-branch-name>
+git branch -r
+git branch -a
+git checkout <branch-name>
+git checkout -b <branch-name>
+git merge <branch-name>
+git cherry-pick <commit-hash>
+git rebase <branch-name>
+git rebase --interactive <commit-hash>
+git rebase --abort
+git rebase --continue
+git reset <file>
+git reset --hard
+git revert <commit-hash>
+git reflog
+git remote add origin <repository-url>
+git remote -v
+git remote show origin
+git remote remove <remote-name>
+git remote rename <old-name> <new-name>
+git push origin <branch-name>
+git push -u origin <branch-name>
+git push --force
+git push origin --delete <branch-name>
+git push --tags
+git pull
+git pull --rebase
+git pull origin <branch-name>
+git fetch
+git stash
+git stash list
+git stash show
+git stash apply
+git stash pop
+git stash drop
+git stash clear
+git clean -f
+git clean -fd
+git rm <file>
+git rm --cached <file>
+git branch -d <branch-name>
+git diff
+git diff --cached
+git diff <commit-hash> <commit-hash>
+git diff --name-only
+git diff HEAD
+git diff --staged
+git show
+git show <commit-hash>
+git blame <file>
+git blame -L <start>,<end> <file>
+git tag <tag-name>
+git tag -d <tag-name>
+git tag -a <tag-name> -m "Tag message"
+git tag -l
+git shortlog
+git grep <search-term>
+git archive --format=zip --output=<file-name>.zip HEAD
+git bisect start
+git bisect bad
+git bisect good <commit-hash>
+git bisect reset
+git submodule add <repository-url>
+git submodule init
+git submodule update
+
+
+
 
