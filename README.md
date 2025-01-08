@@ -4,6 +4,9 @@
 <br>
 <p font:20>Here, we providea all source code of Python.</p> -->
 
+
+
+
 # Python: Source Code, Notes, and Examples
 
 Welcome to the **Python Repository**, where you'll find comprehensive Python resources, including source code, detailed notes, and practical examples to help you master Python programming.
@@ -18,13 +21,11 @@ This repository is dedicated to anyone learning or working with Python, whether 
 - 💻 **Source Code**: Explore fully functional Python programs.
 - 🛠 **Examples**: Learn with real-world examples for better comprehension.
 
-Authored and maintained by **SAMEER RAJ (SR)**, this repository is designed to provide clear, concise, and helpful content.
+Authored and maintained by **Sameer (SR)**, this repository is designed to provide clear, concise, and helpful content.
 
 ---
 
-# SR
-
-<!-- ## 🛠 Features
+## 🛠 Features
 
 - **Comprehensive Coverage**: From Python basics to advanced topics.
 - **Example-Driven Learning**: Each concept comes with working examples.
@@ -39,7 +40,19 @@ Authored and maintained by **SAMEER RAJ (SR)**, this repository is designed to p
 ├── Notes/           # Explanations and detailed notes on Python topics
 ├── Source_Code/     # Python scripts for various concepts
 ├── Examples/        # Real-world examples for practice
-└── README.md        # This document -->
+└── README.md        # This document 
+```
+---
+
+#### SR
+
+
+
+
+
+
+
+
 
 <!-- # <span style="color: #4CAF50; font-size: 40px;">Python Resources</span>
 
@@ -76,4 +89,4 @@ Welcome to the **Python Resources Repository**! This repository provides a compr
 └── 📁 Examples/
     ├── Example1.py
     ├── Example2.py
-    └── ... --> -->
+    └── ... -->
