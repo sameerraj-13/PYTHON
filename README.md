@@ -4,7 +4,7 @@
 <br>
 <p font:20>Here, we providea all source code of Python.</p> -->
 
-<!-- # Python: Source Code, Notes, and Examples
+# Python: Source Code, Notes, and Examples
 
 Welcome to the **Python Repository**, where you'll find comprehensive Python resources, including source code, detailed notes, and practical examples to help you master Python programming.
 
@@ -37,9 +37,9 @@ Authored and maintained by **Sameer (SR)**, this repository is designed to provi
 ├── Notes/           # Explanations and detailed notes on Python topics
 ├── Source_Code/     # Python scripts for various concepts
 ├── Examples/        # Real-world examples for practice
-└── README.md        # This document -->
+└── README.md        # This document
 
-# <span style="color: #4CAF50; font-size: 40px;">Python Resources</span>
+<!-- # <span style="color: #4CAF50; font-size: 40px;">Python Resources</span>
 
 ### <span style="font-size: 18px;">Author: <b>SAMEER (SR)</b></span>
 
@@ -74,4 +74,4 @@ Welcome to the **Python Resources Repository**! This repository provides a compr
 └── 📁 Examples/
     ├── Example1.py
     ├── Example2.py
-    └── ...
+    └── ... -->
